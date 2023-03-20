@@ -4,7 +4,15 @@ I created this project to get familiar with using tailwind CSS after going throu
 
 Hosted with ❤️ at https://main--nimble-malasada-34dbd7.netlify.app/
 
-## Project setup
+## Learnings:
+
+1. How to setup Tailwind CSS
+2. Setting up [Tailwind CSS IntelliSense extension](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) for VS code for styles auto-completion
+3. Using tailwind directives (@layer, @apply)
+4. Creating dark/light theme toggle
+5. Appling theme specific styling
+
+### Project setup
 
 `npm install`
 
