@@ -1,6 +1,6 @@
 # Discord-like dashboard created using TailwindCSS
 
-I created this project to get familiar with using tailwind CSS after going through its documentation.
+I created this project to get familiar with using [Tailwind CSS](https://tailwindcss.com/) after going through its documentation.
 
 Hosted with ❤️ at https://main--nimble-malasada-34dbd7.netlify.app/
 
