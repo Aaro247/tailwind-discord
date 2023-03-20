@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { FaSearch, FaHashtag, FaRegBell, FaUserCircle, FaMoon, FaSun } from 'react-icons/fa'
 import useDarkMode from '../../hooks/useDarkMode'
 
